@@ -1,6 +1,6 @@
 function SignIn(){
   return <div className='w-3/5'>
-    <p>Sign In Section</p>
+    <div className='text-left font-bold'>Company Name</div>
   </div>;
 }
 
