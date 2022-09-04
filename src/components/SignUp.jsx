@@ -1,5 +1,5 @@
 function SignUp(){
-  return <div>
+  return <div className='w-2/5'>
     <p>Sign Up Section</p>
   </div>;
 }
