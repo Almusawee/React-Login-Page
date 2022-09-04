@@ -1,4 +1,4 @@
-
+import React from 'react'
 function SignIn(){
   return <div className='w-3/5 p-5'>
     <div className='text-left font-bold'><span className='text-green-500'>Company</span> Name</div>
