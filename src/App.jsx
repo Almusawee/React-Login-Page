@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom/client';
 import SignUp from './components/SignUp'
 import SignIn from './components/SignIn'
+import {faFacebook, FaLinkedinIn, FaGoogle} from 'react-icons/fa'
+
 
 function App() {
     return (

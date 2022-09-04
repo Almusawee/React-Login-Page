@@ -1,4 +1,3 @@
-import {faFacebook, FaLinkedinIn, FaGoogle} from 'react-icons/fa'
 
 function SignIn(){
   return <div className='w-3/5 p-5'>
