@@ -5,6 +5,6 @@ import App from './App'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App className='flex flex-col items-center justify-center min-h-screen py-2 bg-gray-100' />
+    <App className='flex flex-col items-center justify-center min-h-screen py-2 bg-gray-200' />
   </React.StrictMode>
 )
