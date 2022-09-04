@@ -6,7 +6,7 @@ import SignIn from './components/SignIn'
 function App() {
     return (
       <div  className='flex flex-col items-center justify-center w-full flex-1 px-20 text-center'>
-      <div className='bg-white  '>
+      <div className='bg-white   '>
         <SignIn />
         <SignUp />
       </div>
