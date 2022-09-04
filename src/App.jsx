@@ -7,8 +7,8 @@ function App() {
     return (
       <div  className='flex flex-col items-center justify-center w-full flex-1 px-20 text-center'>
       <div className='bg-white rounded-2xl shadow-2xl flex w-2/3 '>
-        <SignIn />
-        <SignUp />
+        <SignIn className='w-3/5' />
+        <SignUp className='w-2/5' />
       </div>
       </div>  
     );
